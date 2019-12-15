@@ -3,7 +3,7 @@
 ## License.....: MIT
 ##
 
-SHARED                  := 0
+SHARED                  := 1
 DEBUG                   := 0
 PRODUCTION              := 0
 PRODUCTION_VERSION      := v5.1.0
